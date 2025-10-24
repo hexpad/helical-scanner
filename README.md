@@ -2,6 +2,10 @@
 
 This program performs a 3D helical scan. The calculated x, y, and z coordinates are saved in the HelicalScan.txt file. It can be used for radar simulations or other applications requiring helical scanning coordinates.
 
+
+<img width="604" height="535" alt="Helical" src="https://github.com/user-attachments/assets/e32eedb1-df98-48c3-a76b-d4ec76850aba" />
+
+
 ```cpp
 
 #include <stdio.h>
